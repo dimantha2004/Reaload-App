@@ -1,4 +1,5 @@
 🚀 Reaload App
+
 Reaload App is a modern web application built with a focus on performance, clean architecture, and developer productivity. It leverages Vite, React (or any framework if specified), TypeScript, and Tailwind CSS for fast development and a seamless user experience.
 
 ✨ Designed for scalability and lightning-fast performance.
