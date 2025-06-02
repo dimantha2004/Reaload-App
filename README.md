@@ -41,10 +41,4 @@ Reaload-App/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-🛠️ Tech Stack
-Tech	Description
-Vite	Frontend build tool
-TypeScript	Static typing
-Tailwind CSS	Utility-first CSS framework
-ESLint & Prettier	Code linting and formatting
-React (optional)	Component-based UI architecture (if used)
+
