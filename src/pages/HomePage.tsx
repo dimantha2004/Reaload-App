@@ -20,7 +20,7 @@ const HomePage: React.FC = () => {
       </section>
 
       <section className="py-12">
-        <h2 className="text-2xl font-bold text-center mb-8">Why Choose SmartReload?</h2>
+        <h2 className="text-2xl font-bold text-center mb-8">Why Choose SmartReload...?</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <FeatureCard 
             icon={<PhoneCall className="h-10 w-10 text-blue-600" />}
